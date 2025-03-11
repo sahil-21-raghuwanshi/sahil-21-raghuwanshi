@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Raghuwanshi</h1>
 <h2 align="center">A passionate about Product Management </h2>
-<h3 align="center"> Measures Build Failed </h3>
+<h3 align="center"> Measure Build Failed </h3>
 
 
 
