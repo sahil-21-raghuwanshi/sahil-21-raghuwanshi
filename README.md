@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sahil Raghuwanshi</h1>
-<h2 align="center">A passionate about Startup,Product Management </h2>
 <h3 align="center">  Build Measure Failed </h3>
 
 
